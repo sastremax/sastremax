@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Improving my skills in Python through a basic project for product inventory management.<br><br>I'm looking to collaborate on: Open-source projects in Java.<br><br>I'm currently learning: Basic concepts in Python.
+I'm currently working on: Improving my skills in Python through a basic project for product inventory management.<br><br>I'm looking to collaborate on: Open-source projects in Java.<br><br>I'm currently learning: Basic concepts in Python and studying for the Full Stack Web Developer Diploma at CoderHouse.
 
 
 ## 🌐 Socials:
