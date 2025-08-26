@@ -1,5 +1,8 @@
-# 💫 About Me:
-I'm currently working on: Improving my skills in Python through a basic project for product inventory management.<br><br>I'm looking to collaborate on: Open-source projects in Java.<br><br>I'm currently learning: Basic concepts in TECH (course from Buenos Aires Ciudad) from Python, then HTML, CSS and Javascript and studying for the Full Stack Web Developer Diploma at CoderHouse.
+# About Me:
+- Currently learning: Java (through the TECH program – Buenos Aires Ciudad) and starting with Kotlin.  
+- Working on: Small projects to practice Java and Kotlin fundamentals.  
+- Looking to collaborate on: Beginner-friendly open-source projects in Java or Kotlin.  
+- Goal: Strengthen my backend development skills and apply them in real-world projects.
 
 
 ## 🌐 Socials:
